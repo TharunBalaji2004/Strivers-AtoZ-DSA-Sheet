@@ -8,4 +8,4 @@
 | ✅ | Calculate the Length of Linked List | <a href="https://bit.ly/3Po7tpf" ><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/32px-GeeksforGeeks.svg.png" /></a> | - | - | <a href = "https://github.com/TharunBalaji2004/Strivers-AtoZ-DSA-Sheet/tree/main/Linked%20List/Singly%20Linked%20List%20Basics" target = "_blank" ><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/32px-Octicons-mark-github.svg.png" /></a> |
 | ✅ | Searching an element in Linked List | <a href="https://bit.ly/3Epriup"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/32px-GeeksforGeeks.svg.png" /></a> | - | - | <a href = "https://github.com/TharunBalaji2004/Strivers-AtoZ-DSA-Sheet/tree/main/Linked%20List/Singly%20Linked%20List%20Basics" target = "_blank" ><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/32px-Octicons-mark-github.svg.png" /></a> |
 
-~Click the icon to solve the problem
+*Click the icon to solve the problem*
